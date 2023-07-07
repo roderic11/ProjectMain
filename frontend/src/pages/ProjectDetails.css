@@ -1,0 +1,81 @@
+/* ProjectDetails.css */
+
+.body1 {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
+
+.top1 {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+.top3 {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+.top3 th,
+.top3 td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: left;
+}
+
+.top3 th {
+  background-color: #f2f2f2;
+}
+
+.table-installed {
+  border-collapse: collapse;
+  width: 100%;
+  margin-top: 20px;
+}
+
+.table-installed th,
+.table-installed td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: left;
+}
+
+.table-installed th {
+  background-color: #f2f2f2;
+}
+
+h2 {
+  font-size: 20px;
+  margin: 20px 0;
+}
+
+h4 {
+  font-size: 16px;
+  margin: 10px 0;
+}
+
+input[type='number'] {
+  width: 80px;
+}
+
+select {
+  width: 200px;
+}
+
+button {
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+  font-size: 16px;
+  border-radius: 4px;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
+
+.button-container {
+  margin-top: 20px;
+  text-align: right;
+}
